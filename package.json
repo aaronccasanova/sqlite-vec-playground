@@ -1,0 +1,13 @@
+{
+  "name": "sqlite-vec-playground",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@langchain/textsplitters": "^0.1.0",
+    "better-sqlite3": "^11.9.1",
+    "ollama": "^0.5.16",
+    "openai": "^5.10.2",
+    "sqlite-vec": "0.1.7-alpha.2",
+    "tsx": "^4.20.3"
+  }
+}
