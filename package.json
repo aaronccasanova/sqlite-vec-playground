@@ -9,5 +9,8 @@
     "openai": "^5.10.2",
     "sqlite-vec": "0.1.7-alpha.2",
     "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0"
   }
 }
